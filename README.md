@@ -1,4 +1,4 @@
-                                   DataStructure
+                                              DataStructure
 
 ## Need of Data Structures
 As applications are getting complexed and amount of data is increasing day by day, there may arrise the following problems:
