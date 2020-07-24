@@ -56,7 +56,7 @@ class Queue {
         var ele = this.items[this.front++];
         // console.log(this.front)
         this.size--;
-        if (this.front > this.rear) {
+        if (this.front > this.rear) {  // ?????
             this.front = this.rear = -1;
         }
         return ele;
